@@ -1,0 +1,6 @@
+@SuratApi_HostAddress = http://localhost:5133
+
+GET {{SuratApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
